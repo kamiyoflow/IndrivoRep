@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IndrivoHW.API", "IndrivoHW\IndrivoHW.API.csproj", "{599B616F-09EA-4C7F-91E2-65A536127F45}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IndrivoHW.Bll", "Indrivo.Bll\IndrivoHW.Bll.csproj", "{B8C4F4D1-8CF6-49DC-8414-B00B3289338A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IndrivoHW.Common", "IndrivoHW.Common\IndrivoHW.Common.csproj", "{BDEC26D8-F50A-4B42-8103-A698ADC28BD0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IndrivoHW.Dal", "IndrivoHW.Dal\IndrivoHW.Dal.csproj", "{2878627A-C1AF-4BA2-9F61-7AE73F359347}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IndrivoHW.Domain", "IndrivoHW.Domain\IndrivoHW.Domain.csproj", "{BE040BF0-887C-4D64-BEC4-64176A73C0F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{599B616F-09EA-4C7F-91E2-65A536127F45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599B616F-09EA-4C7F-91E2-65A536127F45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599B616F-09EA-4C7F-91E2-65A536127F45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599B616F-09EA-4C7F-91E2-65A536127F45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8C4F4D1-8CF6-49DC-8414-B00B3289338A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C4F4D1-8CF6-49DC-8414-B00B3289338A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C4F4D1-8CF6-49DC-8414-B00B3289338A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C4F4D1-8CF6-49DC-8414-B00B3289338A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDEC26D8-F50A-4B42-8103-A698ADC28BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDEC26D8-F50A-4B42-8103-A698ADC28BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDEC26D8-F50A-4B42-8103-A698ADC28BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDEC26D8-F50A-4B42-8103-A698ADC28BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2878627A-C1AF-4BA2-9F61-7AE73F359347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2878627A-C1AF-4BA2-9F61-7AE73F359347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2878627A-C1AF-4BA2-9F61-7AE73F359347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2878627A-C1AF-4BA2-9F61-7AE73F359347}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE040BF0-887C-4D64-BEC4-64176A73C0F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE040BF0-887C-4D64-BEC4-64176A73C0F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE040BF0-887C-4D64-BEC4-64176A73C0F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE040BF0-887C-4D64-BEC4-64176A73C0F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18106DD2-47B4-4FE9-8CA4-D08B3AF15B4D}
+	EndGlobalSection
+EndGlobal

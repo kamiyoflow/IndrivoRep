@@ -1,0 +1,15 @@
+C:\Users\kamiyoflow\source\repos\Code\IndrivoHW\IndrivoHW.Common\bin\Debug\net6.0\IndrivoHW.Common.deps.json
+C:\Users\kamiyoflow\source\repos\Code\IndrivoHW\IndrivoHW.Common\bin\Debug\net6.0\IndrivoHW.Common.dll
+C:\Users\kamiyoflow\source\repos\Code\IndrivoHW\IndrivoHW.Common\bin\Debug\net6.0\IndrivoHW.Common.pdb
+C:\Users\kamiyoflow\source\repos\Code\IndrivoHW\IndrivoHW.Common\bin\Debug\net6.0\IndrivoHW.Domain.dll
+C:\Users\kamiyoflow\source\repos\Code\IndrivoHW\IndrivoHW.Common\bin\Debug\net6.0\IndrivoHW.Domain.pdb
+C:\Users\kamiyoflow\source\repos\Code\IndrivoHW\IndrivoHW.Common\obj\Debug\net6.0\IndrivoHW.Common.csproj.AssemblyReference.cache
+C:\Users\kamiyoflow\source\repos\Code\IndrivoHW\IndrivoHW.Common\obj\Debug\net6.0\IndrivoHW.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamiyoflow\source\repos\Code\IndrivoHW\IndrivoHW.Common\obj\Debug\net6.0\IndrivoHW.Common.AssemblyInfoInputs.cache
+C:\Users\kamiyoflow\source\repos\Code\IndrivoHW\IndrivoHW.Common\obj\Debug\net6.0\IndrivoHW.Common.AssemblyInfo.cs
+C:\Users\kamiyoflow\source\repos\Code\IndrivoHW\IndrivoHW.Common\obj\Debug\net6.0\IndrivoHW.Common.csproj.CoreCompileInputs.cache
+C:\Users\kamiyoflow\source\repos\Code\IndrivoHW\IndrivoHW.Common\obj\Debug\net6.0\IndrivoHW.Common.csproj.CopyComplete
+C:\Users\kamiyoflow\source\repos\Code\IndrivoHW\IndrivoHW.Common\obj\Debug\net6.0\IndrivoHW.Common.dll
+C:\Users\kamiyoflow\source\repos\Code\IndrivoHW\IndrivoHW.Common\obj\Debug\net6.0\refint\IndrivoHW.Common.dll
+C:\Users\kamiyoflow\source\repos\Code\IndrivoHW\IndrivoHW.Common\obj\Debug\net6.0\IndrivoHW.Common.pdb
+C:\Users\kamiyoflow\source\repos\Code\IndrivoHW\IndrivoHW.Common\obj\Debug\net6.0\ref\IndrivoHW.Common.dll
